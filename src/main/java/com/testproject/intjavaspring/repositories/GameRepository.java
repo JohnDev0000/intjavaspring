@@ -8,3 +8,5 @@ import com.testproject.intjavaspring.entities.Game;
 public interface GameRepository extends JpaRepository<Game, Long> {
     
 }
+
+
